@@ -1,0 +1,28 @@
+name: InShaka Films
+favicon: null
+layout_spectrum: 0.2550722723826766
+typography_spectrum: 0.9203726125415415
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#A690A4'
+    - '#B68F9D'
+    - '#C8ACAB'
+    - '#FBB9BF'
+    - '#E376B7'
+  brandStrength: 0.2399341375567019
+  lightness: 0.17668016720563173
+  saturation: 0.35867513343691826
+  rhythmicContrast: 0.9245229547377676
+purpose: []
