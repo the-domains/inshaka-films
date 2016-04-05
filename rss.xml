@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[InShaka Films]]></title>
+        <description><![CDATA[InShaka Films]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Tue, 05 Apr 2016 01:24:41 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/de53f798-2e2d-46b5-a156-23fa174fba88.png">]]></description>
+            <link>undefinedreel-inshaka-films/index.html</link>
+            <guid isPermaLink="false">1be21f36-f38a-4ad3-b554-867bfdeab4a3</guid>
+            <pubDate>Tue, 05 Apr 2016 01:23:33 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
